@@ -92,7 +92,6 @@ function getchinfo() {1
 
 function getwebchannels() {
     let channeldb = [
-        ["index2.html#https://pbs.lls.cdn.pbs.org/est/index.m3u8", "https://back-pestech28.github.io/digivision/ch1.png"],
         ["https://pbs.lls.cdn.pbs.org/est/index.m3u8", "https://back-pestech28.github.io/digivision/ch1.png"],
         ["https://www.wwlp.com/watch-live/", "https://back-pestech28.github.io/digivision/ch2.png"],
         ["https://www.newsnationnow.com/news-nation-live/", "https://back-pestech28.github.io/digivision/ch3.png"],
